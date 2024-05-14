@@ -1,0 +1,1 @@
+ "/home/gracelli/Speech-Transformer/egs/aishell/exp/train_m4_n3_in80_elayer6_head8_k64_v64_model512_inner2048_drop0.1_pe5000_emb512_dlayer6_share1_ls0.1_epoch150_shuffle1_bs16_bf15000_mli800_mlo150_k0.2_warm4000/final.pth.tar"
